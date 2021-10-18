@@ -14,7 +14,13 @@ function divide(number1, number2) {
   return number1 / number2;
 }
 
-const number1 = parseInt(prompt("Enter a number:"));
-const number2 = parseInt(prompt("Enter another number:"));
-const result = divide(number1, number2);
+function farenheitToCelsius(tempF){
+  return (tempF-32)*(5/9);
+}
+
+// const number1 = parseInt(prompt("Enter a number:"));
+// const number2 = parseInt(prompt("Enter another number:"));
+// const result = divide(number1, number2);
+const temp = parseInt(prompt("Please enter the temperature in degrees Farenheit"))
+const result = farenheitToCelsius(temp);
 alert(result);
