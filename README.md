@@ -1,6 +1,6 @@
 # _Calculator App_
 
-#### By _**Katie Pundt and Skylar Brockbank**_
+#### By _**Katie Pundt, Skylar Brockbank, and Liam Eller**_
 
 #### _A simple calculator app_
 
@@ -9,6 +9,8 @@
 * _HTML_
 * _CSS_
 * _JavaScript_
+* _Bootstrap_
+* _jQuery_
 
 ## Description
 
@@ -35,4 +37,4 @@ _Note: when using the commands listed above, do not include the quotation marks.
 
 _MIT License_
 
-Copyright (c) _2021_ _Katie Pundt and Skylar Brockbank_
+Copyright (c) _2021_ _Katie Pundt, Skylar Brockbank, and Liam Eller _
