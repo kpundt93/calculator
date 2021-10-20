@@ -1,0 +1,7 @@
+#output {
+  border: solid darkgreen;
+  padding: 2em;
+  margin: 3em;
+  background-color: whitesmoke;
+  box-sizing: border-box;
+}
