@@ -1,6 +1,6 @@
 # _Calculator App_
 
-#### By _**Katie Pundt, Skylar Brockbank, and Liam Eller**_
+#### By _**Katie Pundt and Michael Watkins**_
 
 #### _A simple calculator app_
 
@@ -37,4 +37,4 @@ _Note: when using the commands listed above, do not include the quotation marks.
 
 _MIT License_
 
-Copyright (c) _2021_ _Katie Pundt, Skylar Brockbank, and Liam Eller _
+Copyright (c) _2021_ _Katie Pundt and Michael Watkins _
